@@ -179,5 +179,5 @@ I'm always interested in collaborating on **AI, Generative AI, Machine Learning,
 
 If you're working on an interesting AI problem or building something ambitious, feel free to connect!
 
-**LinkedIn:** [Your LinkedIn URL]  
-**Email:** [Your Email]
+**LinkedIn:** https://www.linkedin.com/in/muhammad-ibrahim-706634237/ 
+**Email:** muhammadibrahim44442@gmail.com
