@@ -4,9 +4,9 @@
 
 I'm **Muhammad Ibrahim**, an AI Engineer with **3+ years of hands-on experience** building and deploying practical AI solutions.
 
-My experience spans **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, LLMs, AI Agents, RAG, Computer Vision, OCR, data processing, automation, API development, and AI deployment**.
+My experience spans **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, LLMs, AI Agents, RAG, Computer Vision, OCR, data processing, automation, API development and AI deployment**.
 
-I enjoy taking AI ideas from **data preparation and experimentation to production-ready applications**, with a focus on solving real-world problems and building systems that are reliable, scalable, and useful.
+I enjoy taking AI ideas from **data preparation and experimentation to production-ready applications**, with a focus on solving real-world problems and building systems that are reliable, scalable and useful.
 
 ### 🧠 Areas of Expertise
 
@@ -148,7 +148,7 @@ A predictive ML model designed to identify customers at risk of leaving a servic
 
 ### 🌐 Browser Automation & Data Extraction
 
-Built browser-automation pipelines using **Playwright** to collect, structure, and process information from multiple websites.
+Built browser-automation pipelines using **Playwright** to collect, structure and process information from multiple websites.
 
 - Scraped data from **25+ websites** for an e-commerce application
 - Automated structured data collection into Google Sheets
