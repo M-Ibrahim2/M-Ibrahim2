@@ -1,8 +1,8 @@
 # Heeey there!
 
-## Data Scientist
+## AI Engineer
 
-I'm Muhammad Ibrahim, the data scientist with experience in various projects. I have a strong background in machine learning, deep learning, computer vision, and natural language processing, data visualizations & pre-processing.
+I'm Muhammad Ibrahim, the data scientist with experience in various projects. I have a strong background in machine learning, deep learning, computer vision and natural language processing, data visualizations & pre-processing.
 
 ### Projects
 
